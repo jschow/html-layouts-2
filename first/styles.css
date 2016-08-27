@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+}
+
+.top-first {
+  height: 150px;
+  width: 31%;
+  background-color: #F12743;
+  display: inline-block;
+  margin: 1%;
+}
+
+.top-second {
+  height: 150px;
+  width: 31%;
+  background-color: #7CB9ED;
+  display: inline-block;
+  margin: 1%;
+}
+
+.top-third {
+  height: 150px;
+  width: 31%;
+  background-color: #393A3B;
+  display: inline-block;
+  margin: 1%;
+}
+
+p {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.middle-first {
+  height: 300px;
+  width: 31%;
+  background-color: #F12743;
+  display: inline-block;
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-right: -2px;
+  margin-bottom: 1%;
+  padding-right: 0px;
+}
+
+.middle-second {
+  height: 300px;
+  width: 67%;
+  background-color: #7CB9ED;
+  display: inline-block;
+  margin-right: 1%;
+  margin-top: 1%;
+  margin-left: -3px;
+  margin-bottom: 1%;
+  padding-left: 0px;
+}
+
+.bottom-first {
+  height: 150px;
+  width: 67%;
+  background-color: #7CB9ED;
+  display: inline-block;
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-right: -3px;
+  margin-bottom: 1%;
+  padding-right: 0px;
+}
+
+.bottom-second {
+  height: 150px;
+  width: 31%;
+  background-color: #F12743;
+  display: inline-block;
+  margin-right: 1%;
+  margin-top: 1%;
+  margin-left: -2px;
+  margin-bottom: 1%;
+  padding-left: 0px;
+}
+
+.bottom-second div {
+  height: 150px;
+  width: 67%;
+  background-color: #393A3B;
+  /*display: inline-block;*/
+  margin-top: 1%;
+  /*float: center;*/
+  margin: 0 auto;
+}

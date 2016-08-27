@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+
+}
+
+h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+p {
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.column-one {
+  width: 45%;
+  display: inline-block;
+}
+
+.column-two {
+  width: 45%;
+  display: inline-block;
+  position: absolute;
+}
+
+.image {
+  height: 300px;
+  width: 100%;
+  background-color: grey;
+}
